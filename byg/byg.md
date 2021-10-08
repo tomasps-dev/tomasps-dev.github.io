@@ -1,7 +1,7 @@
 # Biologia y Geologia
 
 
-- [Tema 1](/3ESOD/byg/Tema1/tema1.html)
+- [Tema 1](/byg/Tema1/tema1.html)
 
 
 
