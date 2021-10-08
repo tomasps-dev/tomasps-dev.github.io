@@ -1,7 +1,7 @@
 # Matematicas 
 
 
-- [Problema Pascual](/3ESOD/mates/pascual.html)
+- [Problema Pascual](/mates/pascual.html)
 
 
 
@@ -11,4 +11,4 @@
 
 
 
-[Pagina Inicial](/3ESOD)
+[Pagina Inicial](/)
