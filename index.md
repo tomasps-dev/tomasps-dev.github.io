@@ -21,13 +21,13 @@
 
 # En este curso ire subiendo todos los trabajos/projectos a este repositorio.
 
-- [Ingles](/3ESOD/ingles/ingles.html)
-- [Geografia e Historia](/3ESOD/geo/geo.html) 
-- [Biologia y Geologia](/3ESOD/byg/byg.html)
-- [Matematicas](/3ESOD/mates/mates.html)
-- [Educacion Fisica](/3ESOD/ef/ef.html)
-- [Lengua Castellana](/3ESOD/lengua/lengua.html)
-- [Tecnologia](/3ESOD/tecno/tecno.html)
+- [Ingles](/ingles/ingles.html)
+- [Geografia e Historia](/geo/geo.html) 
+- [Biologia y Geologia](/byg/byg.html)
+- [Matematicas](/mates/mates.html)
+- [Educacion Fisica](/ef/ef.html)
+- [Lengua Castellana](/lengua/lengua.html)
+- [Tecnologia](/tecno/tecno.html)
 
 
 [Carpeta de Drive](https://drive.google.com/drive/folders/1jdXK-eoW7uV3UCixzyouz_aOmzbnSsCE?usp=sharing) 
