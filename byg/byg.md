@@ -6,4 +6,4 @@
 
 
 
-[Pagina principal](/3ESOD/)
+[Pagina principal](/)
