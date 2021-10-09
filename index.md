@@ -22,6 +22,7 @@
 
 - [Ingles](/ingles/ingles.html)
 - [Geografia e Historia](/geo/geo.html) 
+- [Fisica y Quimica](/fyq/fyq.html)
 - [Biologia y Geologia](/byg/byg.html)
 - [Matematicas](/mates/mates.html)
 - [Educacion Fisica](/ef/ef.html)
