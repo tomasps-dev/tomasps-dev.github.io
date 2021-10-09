@@ -1,3 +1,3 @@
 # Fisica y Quimica
 
-- [Presentacion Radioactividad](/fyq/radioactividad/radioactividad.html)
+- [Presentacion Radioactividad](/fyq/radioactividad/radioactividad.pdf)
