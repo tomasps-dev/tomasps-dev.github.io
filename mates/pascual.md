@@ -6,7 +6,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-YQR3MX1GD4');
-</script
+</script>
 
 # Problema pascual
 ## En este video se da la solucion al problema de pascual 
