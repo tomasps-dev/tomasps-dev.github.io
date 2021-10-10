@@ -12,3 +12,4 @@
 
 
 - [Presentacion Radioactividad](/fyq/radioactividad.pdf)
+- [Vocabulario Tema 2](/fyq/vocabulario_tema_2.pdf)
