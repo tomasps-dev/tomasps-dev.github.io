@@ -6,7 +6,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-YQR3MX1GD4');
-</script
+</script>
 
 # Matematicas 
 
