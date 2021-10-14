@@ -2,4 +2,4 @@
 
 
 
-- [Ejercicios](/geo/tema1/ejercicios/ejercicios.html)
+- [Ejercicios](/tema1/ejercicios/ejercicios.html)
