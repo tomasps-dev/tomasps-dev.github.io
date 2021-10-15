@@ -1,0 +1,25 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:2c0bb8d9-bd31-4da1-81cc-54b1ec29470d</distributor>
+  <operatorURL>http://dmebooks.com:8080/fulfillment</operatorURL>
+  <transaction>70533_</transaction>
+  <expiration>2034-01-20T19:18:44+01:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:ebc8d192-beff-4887-8ccc-16709257d469</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">PHYSICS AND CHEMISTRY 2ND ESO FOR BILINGUAL PROGRAM</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Autor</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Editorial</dc:publisher>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <thumbnailURL>http://dmebooks.com:8080/media/ebc8d192-beff-4887-8ccc-16709257d469.jpg</thumbnailURL>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:ebc8d192-beff-4887-8ccc-16709257d469</resource>
+      <permissions>
+        <display/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>UXl9OS+1IG3wWageQSzRgMY2mXs=</hmac>
+</fulfillmentToken>
