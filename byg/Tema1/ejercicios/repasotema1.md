@@ -1,8 +1,15 @@
 ## Ejercicios repaso Tema 1
 
 
+### Apartados 
 
-# 1) Un nuevo dedo:
+- [1. Un nuevo dedo](/byg/Tema1/ejercicios/repasotema1.html#1.-Un-nuevo-dedo)
+- [2. ¿Somos polvo de estrellas?](/byg/Tema1/ejercicios/repasotema1.html#2.-¿Somos-polvo-de-estrellas?)
+- [3. Donación de tejidos](/byg/Tema1/ejercicios/repasotema1.html#3.-Donación-de-tejidos)
+- [4. Las células de nuestro cuerpo](/byg/Tema1/ejercicios/repasotema1.html#4.-Las-células-de-nuestro-cuerpo)
+- [5. Somos lo que comemos](/byg/Tema1/ejercicios/repasotema1.html#5.-Somos-lo-que-comemos)
+
+# 1. Un nuevo dedo:
 
 La Universidad de Pittsburgh (EE.UU) está desarrollando tecnologías de regeneración de tejidos y órganos usando polvo de matriz extra celular y ha logrado que un dedo cercenado creciera de nuevo. Esta matriz en polvo sobre heridas detiene el proceso de cicatrización e induce el crecimiento y desarrollo de nuevos tejidos. Se obtiene de vejiga o intestino de cerdo tratado para hacer desaparecer sus células y que solo quede la matriz extracelular que se purificara y reducirá a polvo.
 
@@ -17,7 +24,7 @@ Hace desaparecer sus células
 
 
 
-# 2) ¿Somos polvo de estrellas?
+# 2. ¿Somos polvo de estrellas?
 
 Interpretar y relacionar los diferentes niveles de organización del ser humano. Reconocer las relaciones entre los distintos aparatos y siete mas del cuerpo humano. 
 
@@ -36,7 +43,7 @@ La felicidad, lo realmente sorprendente es que de todas ellas solo 500 paginas c
 **Aplica. ¿A qué aparatos o sistemas pertenecen los órganos citados en la respuesta anterior?**
 Núcleo supraquiasmatico
 
-# 3) Donación de tejidos
+# 3. Donación de tejidos
 
 Reconocer los principales tejidos que conforman el cuerpo humano y asociar cada uno con su función. 
 
@@ -57,7 +64,7 @@ Después de extraer algún órgano del donante, por las circunstancias que sean,
 **Reflexiona y comunica. ¿Darías tu consentimiento para ser donante de tejidos? Argumenta tu respuesta. Después, realizad un debate en clase.**
 Depende de que órgano, daria mi consentimiento
 
-# 4) Las células de nuestro cuerpo
+# 4. Las células de nuestro cuerpo
 
 Diferencias los tipos celulares y describir la función de los orgánulos. 
 
@@ -72,7 +79,7 @@ La enfermedad que se origina puede ser Cáncer o la gripe
 **Aplica. Con la respuesta la actividad 3 de Ciencias en contexto 2, y sabiendo que la media de vida de una célula es de unos 7 años, calcula cuántas mitosis se producen en un adulto entre los 18 y los 67 años.**
 Obtenemos proteinas
 
-# 5) Somos lo que comemos
+# 5. Somos lo que comemos
 
 Interpretar y relacionar los diferentes niveles de organización del ser humano. 
 La famosa frase “somos lo que comemos” es de Ludwig Feuerbach, filósofo y antropólogo alemán. En su escrito Enseñanza de la alimentación de 1850, más exactamente escribió: “El hombre es lo que come”. 
