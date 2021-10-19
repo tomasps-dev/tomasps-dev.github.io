@@ -17,7 +17,7 @@ La Universidad de Pittsburgh (EE.UU) está desarrollando tecnologías de regener
 La matriz extracelular representa una red tridimensional que engloba todos lo órganos, tejidos y células del organismo.
 
 **Describe. ¿Cuáles son las estructuras más abundantes en la matriz extracelular?**
-La vegiga o intestino
+Las proteinas mas abundantes son el Colageno y la Elastina
 
 **Aplica. ¿Qué función desarrolla la matriz extracelular?**
 La matriz extracelular ayuda a que las células se unan y se comuniquen con las células cercanas, y desempeña una función importante en la multiplicación celular, el movimiento celular y otras funciones celulares.
