@@ -20,7 +20,7 @@ La matriz extracelular representa una red tridimensional que engloba todos lo ó
 La vegiga o intestino
 
 **Aplica. ¿Qué función desarrolla la matriz extracelular?**
-Hace desaparecer sus células 
+La matriz extracelular ayuda a que las células se unan y se comuniquen con las células cercanas, y desempeña una función importante en la multiplicación celular, el movimiento celular y otras funciones celulares.
 
 
 
