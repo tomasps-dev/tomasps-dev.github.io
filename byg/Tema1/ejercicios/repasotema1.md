@@ -3,11 +3,11 @@
 
 ### Apartados 
 
-- [1 Un nuevo dedo](/byg/Tema1/ejercicios/repasotema1.html#1-Un-nuevo-dedo)
-- [2 ¿Somos polvo de estrellas?](/byg/Tema1/ejercicios/repasotema1.html#2-¿Somos-polvo-de-estrellas?)
-- [3 Donación de tejidos](/byg/Tema1/ejercicios/repasotema1.html#3-Donación-de-tejidos)
-- [4 Las células de nuestro cuerpo](/byg/Tema1/ejercicios/repasotema1.html#4-Las-células-de-nuestro-cuerpo)
-- [5 Somos lo que comemos](/byg/Tema1/ejercicios/repasotema1.html#5-Somos-lo-que-comemos)
+- [1 Un nuevo dedo](/byg/Tema1/ejercicios/repasotema1.html#1-un-nuevo-dedo)
+- [2 ¿Somos polvo de estrellas?](/byg/Tema1/ejercicios/repasotema1.html#2-¿somos-polvo-de-estrellas?)
+- [3 Donación de tejidos](/byg/Tema1/ejercicios/repasotema1.html#3-donación-de-tejidos)
+- [4 Las células de nuestro cuerpo](/byg/Tema1/ejercicios/repasotema1.html#4-las-celulas-de-nuestro-cuerpo)
+- [5 Somos lo que comemos](/byg/Tema1/ejercicios/repasotema1.html#5-somos-lo-que-comemos)
 
 # 1 Un nuevo dedo
 
@@ -63,7 +63,7 @@ Después de extraer algún órgano del donante, por las circunstancias que sean,
 **Reflexiona y comunica. ¿Darías tu consentimiento para ser donante de tejidos? Argumenta tu respuesta. Después, realizad un debate en clase.**
 Depende de que órgano, daria mi consentimiento
 
-# 4 Las células de nuestro cuerpo 
+# 4 Las celulas de nuestro cuerpo 
 
 Diferencias los tipos celulares y describir la función de los orgánulos. 
 
