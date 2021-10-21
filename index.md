@@ -28,6 +28,7 @@
 - [Educacion Fisica](/ef/ef.html)
 - [Lengua Castellana](/lengua/lengua.html)
 - [Tecnologia](/tecno/tecno.html)
+- [Musica](/musica/musica.html)
 
 
 [Carpeta de Drive](https://drive.google.com/drive/folders/1jdXK-eoW7uV3UCixzyouz_aOmzbnSsCE?usp=sharing) 
