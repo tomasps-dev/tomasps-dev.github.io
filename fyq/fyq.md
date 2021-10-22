@@ -10,6 +10,4 @@
 
 # Fisica y Quimica
 
-
-- [Presentacion Radioactividad](/fyq/radioactividad.pdf)
-- [Vocabulario Tema 2](/fyq/vocabulario_tema_2.pdf)
+- [Tema 2](/fyq/tema2/tema2.html)
