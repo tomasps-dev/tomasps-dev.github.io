@@ -14,7 +14,7 @@
 La Universidad de Pittsburgh (EE.UU) está desarrollando tecnologías de regeneración de tejidos y órganos usando polvo de matriz extra celular y ha logrado que un dedo cercenado creciera de nuevo. Esta matriz en polvo sobre heridas detiene el proceso de cicatrización e induce el crecimiento y desarrollo de nuevos tejidos. Se obtiene de vejiga o intestino de cerdo tratado para hacer desaparecer sus células y que solo quede la matriz extracelular que se purificara y reducirá a polvo.
 
 **Identifica. ¿Qué es la matriz extracelular?**
-La matriz extracelular representa una red tridimensional que engloba todos lo órganos, tejidos y células del organismo.
+Es una sustancia intercelular generalmente rica en fibras de proteínas. Representa una red tridimensional que engloba todos los órganos, tejidos y células del organismo. 
 
 **Describe. ¿Cuáles son las estructuras más abundantes en la matriz extracelular?**
 Las proteinas mas abundantes son el Colageno y la Elastina
