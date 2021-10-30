@@ -8,7 +8,7 @@
 - [Missouri](/ingles/usa/biography/photos/Missouri.jpg)
 - [Music](/ingles/usa/biography/photos/Music.jpg)
 - [National Symbols](/ingles/usa/biography/photos/National_symbols.jpg)
-- [Statue of Liberty](/ingles/usa/biography/photos/Statue_of_Liberty.png)
+- [Statue of Liberty](/ingles/usa/biography/photos/Statue_of_liberty.jpg)
 - [Statue of Liberty 2](/ingles/usa/biography/photos/Statue_of_LIberty.png)
 - [USA (Alaska)](/ingles/usa/biography/photos/USA_Alaska.png)
 - [USA Map ](/ingles/usa/biography/photos/Usa_map.png)
