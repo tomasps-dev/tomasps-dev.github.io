@@ -2,7 +2,7 @@
 
 - [American Football](/ingles/usa/biography/photos/american_football.jpg)
 - [Apple Pie](/ingles/usa/biography/photos/Apple_pie.jpeg)
-- [Bald Eagle](/ingles/usa/biography/photos/bald_eagle.jpg)
+- [Bald Eagle](/ingles/usa/biography/photos/bald_egale.jpg)
 - [Denali](/ingles/usa/biography/photos/Denali.jpg)
 - [Dollars](/ingles/usa/biography/photos/dollars.jpg)
 - [Missouri](/ingles/usa/biography/photos/missouri.jpg)
