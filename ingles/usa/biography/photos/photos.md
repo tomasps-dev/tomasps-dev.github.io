@@ -1,0 +1,15 @@
+# Photos
+
+- [American Football](/ingles/usa/biography/photos/american_football.jpg)
+- [Apple Pie](/ingles/usa/biography/photos/Apple_pie.jpeg)
+- [Bald Eagle](/ingles/usa/biography/photos/bald_eagle.jpg)
+- [Denali](/ingles/usa/biography/photos/Denali.jpg)
+- [Dollars](/ingles/usa/biography/photos/dollars.jpg)
+- [Missouri](/ingles/usa/biography/photos/missouri.jpg)
+- [Music](/ingles/usa/biography/photos/Music.jpg)
+- [National Symbols](/ingles/usa/biography/photos/National_symbols.jpg)
+- [Statue of Liberty](/ingles/usa/biography/photos/Statue_of_Liberty.png)
+- [Statue of Liberty 2](/ingles/usa/biography/photos/Statue_of_LIberty.png)
+- [USA (Alaska)](/ingles/usa/biography/photos/USA_Alaska.png)
+- [USA Map ](/ingles/usa/biography/photos/Usa_map.png)
+- [USA Map 2](/ingles/usa/biography/photos/USA_map_2.png)
