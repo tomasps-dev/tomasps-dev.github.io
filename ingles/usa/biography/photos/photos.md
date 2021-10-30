@@ -5,7 +5,7 @@
 - [Bald Eagle](/ingles/usa/biography/photos/bald_egale.jpg)
 - [Denali](/ingles/usa/biography/photos/Denali.jpg)
 - [Dollars](/ingles/usa/biography/photos/dollars.jpg)
-- [Missouri](/ingles/usa/biography/photos/missouri.jpg)
+- [Missouri](/ingles/usa/biography/photos/Missouri.jpg)
 - [Music](/ingles/usa/biography/photos/Music.jpg)
 - [National Symbols](/ingles/usa/biography/photos/National_symbols.jpg)
 - [Statue of Liberty](/ingles/usa/biography/photos/Statue_of_Liberty.png)
