@@ -11,4 +11,5 @@
 # Fisica y Quimica
 
 - [Tema 2](/fyq/tema2/tema2.html)
+- [Tema 3](/fyq/tema3/tema3.html)
 - [Libro Fisica](/fyq/libro.pdf)
