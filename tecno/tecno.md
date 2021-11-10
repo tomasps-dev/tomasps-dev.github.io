@@ -9,3 +9,5 @@
 </script>
 
 # Tecnologia
+
+- [Ejercicios](/tecno/ejercicios/ejercicios.html)
