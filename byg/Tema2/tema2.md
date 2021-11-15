@@ -1,3 +1,3 @@
 # Tema 2
 
-- [IMC](/byg/Team2/imc/index.html)
+- [IMC](/byg/Tema2/imc/index.html)
