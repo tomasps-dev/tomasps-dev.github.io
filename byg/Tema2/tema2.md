@@ -1,3 +1,3 @@
 # Tema 2
 
-- [IMC](/byg/Team2/imc/imc.php)
+- [IMC](/byg/Team2/imc/index.php)
