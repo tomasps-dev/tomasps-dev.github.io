@@ -14,7 +14,9 @@
 
 ## Slide 3 ([The statue of liberty](https://tomasps-dev.github.io/ingles/usa/presentation/usa.html#3)) *Tomas*
 
-> A Landmark of the USA is the Statue of Liberty. It’s located in a island called Liberty Island with is in New York. It Is a symbol of friendship between France and the USA
+> A Landmark of the USA is the Statue of Liberty. 
+> It’s located in a island called Liberty Island with is in New York. 
+> It Is a symbol of friendship between France and the USA
 
 ## Slide 4 ([Denali](https://tomasps-dev.github.io/ingles/usa/presentation/usa.html#4)) *Sergio*
 
