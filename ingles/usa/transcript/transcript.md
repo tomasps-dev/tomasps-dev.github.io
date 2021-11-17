@@ -30,7 +30,7 @@
 > - Missouri is the longest river in the US 
 > - This river is almost 4,000 kilometres long
 > - When this river joins the Mississippi river, its length increases to approximately to 8,000 kilometres, which makes it the 4th longest river after Amazon, Nile and Yangtze rivers.
-> - This river rises in the North, flows into East and joins the Mississippi River, crossing 7 states.  
+> - This river rises in the North, flows into the East and joins the Mississippi River, crossing 7 states.  
  
  
 ## Slide 6 ([National Symbols](https://tomasps-dev.github.io/ingles/usa/presentation/usa.html#6)) *Sergio*
