@@ -171,3 +171,4 @@ Los nutrientes deberán estar en su estado asimilable (mas elemental) para ser a
 **4. ¿Qué ocurrirá con las vellosidades y microvellosidades intestinales si se prolonga la nutrición parenteral durante un lago tiempo? ¿Qué crees que ocurrirá cuando se reintroduce la alimentación oral en el paciente?**
 
 Que se atrofiaran (perderán su capacidad funcional) las vellosidades 
+Que los alimentos deberán introducirse con cuidado para que la persona los valla tolerando bien. 
