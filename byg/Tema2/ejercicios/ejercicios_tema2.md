@@ -81,8 +81,7 @@ Total = 69 kcal
 
 
 - **C. ¿Crees que cubre los requerimientos energeticos? ¿y nutricionales?** 
-C. ¿Crees que cubre los requerimientos energéticos? ¿Y
-los nutricionales? Razona tu respuesta.
+
 
 Ni cubre los requerimientos energéticos ni nutricionales porque como mínimo se necesitan entre 30-40 kcal por kilo de peso y día y nutricionalmente no mantiene una dieta equilibrada puesto que su alimentación no cumple las siguientes condiciones: Glúcidos (50-55%), Lípidos (30-35%), Proteínas (10-15%).
 
