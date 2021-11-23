@@ -151,7 +151,9 @@ Por eso las personas que no toman gluten, generalmente comen de promedio menos f
 
 - **5. La ley obliga a indicar en las etiquetas si el alimento contiene o no gluten. Busca distintos envases de alimentos, analiza sus etiquetas y determina si son aptos o no para celíacos.**
 
+Es apto para celiacos ya que no tiene gluten y la leche es sin lactosa 
 
+![Foto](/byg/Tema2/ejercicios/pan.jpg)
 
 
 
