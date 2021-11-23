@@ -19,11 +19,11 @@
 La leche materna es un alimento completo (glúcidos, lípidos y proteínas) porque aporta todos los nutrientes necesarios al bebe para lograr su desarrollo. 
 
 - **1.1 ¿Se trata de una alimentación equilibrada?**
-	Si, porque aporta las cantidades adecuadas de glúcidos, lípidos, proteínas, minerales, 			vitaminas, anticuerpos, enzimas y hormonas que los bebes necesitan para su crecimiento manteniendo las proporciones correctas de cada nutriente.  
+Si, porque aporta las cantidades adecuadas de glúcidos, lípidos, proteínas, minerales, vitaminas, anticuerpos, enzimas y hormonas que los bebes necesitan para su crecimiento manteniendo las proporciones correctas de cada nutriente.  
 
 - **2. Un bebe de 2 meses debe ingerir 550 kcal diarias. ¿Que cantidad de leche debe tomar? ¿Que cantidad de cada nutriente toma con esta dosis?**
 	100g de leche materna————72kcal
-		X		 ————550kcal
+		X————550kcal
 X= 763,88g de leche
 
 Glúcidos=53,4716
@@ -41,7 +41,7 @@ Proteinas=8,40268
  
  
 - **3. Experimenta**
-	Lactosa= Glucosa + galactosa 
+Lactosa= Glucosa + galactosa 
 La lactosa es poco dulce sin embargo los dos monosacaridos son muy dulces. 
 
 
@@ -51,8 +51,8 @@ La lactosa es poco dulce sin embargo los dos monosacaridos son muy dulces.
 > Valorar el papel de la dieta y el ejercicio físico para tener una vida saludable y elaborar dietas equilibradas. 
 
 - **1. ¿Qué enfermedad padece Lydia? ¿Qué conductas te hacen llegar a esa conclusión?**
-	Padece anorexia nerviosa. Las conductas que podemos observar son su obsesión por no		engordar, su rechazo a la comida limitándose a ingerir en un primer momento verduras	
- 	crudas y refrescos y luego empezó a mantenerse a base de CocaCola light acompañada 		de mucho ejercicio. Incluso llega a provocarse el vómito cuando piensa que ha comido 			demasiado por ingerir una simple ensalada y sopa. 
+Padece anorexia nerviosa. Las conductas que podemos observar son su obsesión por no engordar, su rechazo a la comida limitándose a ingerir en un primer momento verduras	
+Crudas y refrescos y luego empezó a mantenerse a base de CocaCola light acompañada de mucho ejercicio. Incluso llega a provocarse el vómito cuando piensa que ha comido demasiado por ingerir una simple ensalada y sopa. 
 
 - **2. A final de verano, a sus 19 años, Lydia medía 1,58 m y pesaba 30kg. Calcula su indice de masa corporal (IMC) y valora en qué situación de peso se encuentra. ¿Cuál sería su peso ideal?**
 
@@ -62,7 +62,7 @@ IMC=12,017
 Esta en un infrapeso puesto que es menor que 18,5.
 
 Su peso ideal seria: 24,9 IMC = masa/1,582 		Masa = 62,16kg
-		         18,5 IMC = masa/1,582 		Masa = 46,18kg
+		     18,5 IMC = masa/1,582 		Masa = 46,18kg
 
 Por lo tanto su peso ideal estaria entre 46,18 y 62,16
 
@@ -151,7 +151,6 @@ Por eso las personas que no toman gluten, generalmente comen de promedio menos f
 
 - **5. La ley obliga a indicar en las etiquetas si el alimento contiene o no gluten. Busca distintos envases de alimentos, analiza sus etiquetas y determina si son aptos o no para celíacos.**
 
-schaer.com
 
 
 
