@@ -5,6 +5,7 @@
 > Valorar el papel de la dieta y el ejercicio físico para tener una vida saludable y seguir una alimentación equilibrada. 
 > Conocer las enfermedades mas frecuentes de los órganos, aparatos y sistemas en la nutrición, asociarlas con sus causas y saber como prevenirlas. 
 > Aplicar el método científico en las investigaciones
+
 |                       | Valores por 100g de leche (aprox) |              |
 |-----------------------|-----------------------------------|--------------|
 | Nutrientes            | Leche de vaca                     | Leche humana |
