@@ -67,6 +67,7 @@ Su peso ideal seria: 24,9 IMC = masa/1,582 		Masa = 62,16kg
 Por lo tanto su peso ideal estaria entre 46,18 y 62,16
 
 - **3. Durante un tiempo, Lydia se alimentaba de 1L de refresco de cola light y un cuarto de litro de sopa de espárragos.**
+
 |                       | Valores por 100g de leche (aprox) |              |
 |-----------------------|-----------------------------------|--------------|
 | **Nutrientes**        | **Leche de vaca**                 | **Leche humana**|
@@ -77,6 +78,7 @@ Por lo tanto su peso ideal estaria entre 46,18 y 62,16
 | Proteína (g)          | 3.2                               | 1.1          |
 
 -**A. Calcula sus requerimientos nutricionales según la fórmula de Harris-Benedict. ¿Que gasto energético deberíamos sumarle al resultado anterior para conocer la energía total que necesita Lydia en un día?**
+	
 	TMB mujer = 655,1 + (9,463 * P) + (1,8 * A) - (4,6756 * E)
 		P = peso (kg)	A = altura (cm)	   E = edad (años)
 	 655,1 + (9,463 * 30) + (1,8 * 158) - (4,6756 * 19)
