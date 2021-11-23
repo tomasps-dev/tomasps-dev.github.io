@@ -5,10 +5,18 @@
 > Valorar el papel de la dieta y el ejercicio físico para tener una vida saludable y seguir una alimentación equilibrada. 
 > Conocer las enfermedades mas frecuentes de los órganos, aparatos y sistemas en la nutrición, asociarlas con sus causas y saber como prevenirlas. 
 > Aplicar el método científico en las investigaciones
-
+|                       | Valores por 100g de leche (aprox) |              |
+|-----------------------|-----------------------------------|--------------|
+| Nutrientes            | Leche de vaca                     | Leche humana |
+| Energía (kcal)        | 66                                | 72           |
+| Agua (g)              | 88.5                              | 87.7         |
+| Glúcidos (lactosa, g) | 4.6                               | 7            |
+| Lípidos (g)           | 3.7                               | 4.2          |
+| Proteína (g)          | 3.2                               | 1.1          |
 
 - **1. ¿Como es posible que una cria pueda alimentarse exclusivamente de leche materna?**
 La leche materna es un alimento completo (glúcidos, lípidos y proteínas) porque aporta todos los nutrientes necesarios al bebe para lograr su desarrollo. 
+
 - **1.1 ¿Se trata de una alimentación equilibrada?**
 	Si, porque aporta las cantidades adecuadas de glúcidos, lípidos, proteínas, minerales, 			vitaminas, anticuerpos, enzimas y hormonas que los bebes necesitan para su crecimiento manteniendo las proporciones correctas de cada nutriente.  
 
@@ -58,7 +66,14 @@ Su peso ideal seria: 24,9 IMC = masa/1,582 		Masa = 62,16kg
 Por lo tanto su peso ideal estaria entre 46,18 y 62,16
 
 - **3. Durante un tiempo, Lydia se alimentaba de 1L de refresco de cola light y un cuarto de litro de sopa de espárragos.**
-
+|                       | Valores por 100g de leche (aprox) |              |
+|-----------------------|-----------------------------------|--------------|
+| **Nutrientes**        | **Leche de vaca**                 | **Leche humana**|
+| Energía (kcal)        | 66                                | 72           |
+| Agua (g)              | 88.5                              | 87.7         |
+| Glúcidos (lactosa, g) | 4.6                               | 7            |
+| Lípidos (g)           | 3.7                               | 4.2          |
+| Proteína (g)          | 3.2                               | 1.1          |
 
 -**A. Calcula sus requerimientos nutricionales según la fórmula de Harris-Benedict. ¿Que gasto energético deberíamos sumarle al resultado anterior para conocer la energía total que necesita Lydia en un día?**
 	TMB mujer = 655,1 + (9,463 * P) + (1,8 * A) - (4,6756 * E)
