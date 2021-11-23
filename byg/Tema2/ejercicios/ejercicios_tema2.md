@@ -153,7 +153,7 @@ Por eso las personas que no toman gluten, generalmente comen de promedio menos f
 
 Es apto para celiacos ya que no tiene gluten y la leche es sin lactosa 
 
-![Foto](/byg/Tema2/ejercicios/pan.jpg)
+![Foto](/byg/Tema2/ejercicios/Pan.png)
 
 
 
