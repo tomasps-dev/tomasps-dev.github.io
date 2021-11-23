@@ -77,7 +77,7 @@ Por lo tanto su peso ideal estaria entre 46,18 y 62,16
 | Lípidos (g)           | 3.7                               | 4.2          |
 | Proteína (g)          | 3.2                               | 1.1          |
 
--**A. Calcula sus requerimientos nutricionales según la fórmula de Harris-Benedict. ¿Que gasto energético deberíamos sumarle al resultado anterior para conocer la energía total que necesita Lydia en un día?**
+- **A. Calcula sus requerimientos nutricionales según la fórmula de Harris-Benedict. ¿Que gasto energético deberíamos sumarle al resultado anterior para conocer la energía total que necesita Lydia en un día?**
 	
 	```	
 	- TMB mujer = 655,1 + (9,463 * P) + (1,8 * A) - (4,6756 * E)
@@ -88,7 +88,7 @@ Por lo tanto su peso ideal estaria entre 46,18 y 62,16
 
 Como se dedica a hacer ejercicio en secreto cada vez que está sola para consumir calorías, hay que sumar las kilocalorías que consume por el ejercicio físico que realiza.
 
--**B. Calcula la energia que obtenia del alimento ingerido diariamente.**
+- **B. Calcula la energia que obtenia del alimento ingerido diariamente.**
 
 1 litro de refresco 
 100ml = 0,2 kcal 
