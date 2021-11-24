@@ -12,13 +12,10 @@
      crossorigin="anonymous"></script>
      
 
-## Bienvenido a mi pagina web!
 
 
-### Abajo esta en el enlace a todos los archivos subidos a google drive. Para acceder a el necesitas permisos 
 
-
-# En este curso ire subiendo todos los trabajos/projectos a este repositorio.
+# Asignaturas 
 
 - [Ingles](/ingles/ingles.html)
 - [Geografia e Historia](/geo/geo.html) 
@@ -31,9 +28,11 @@
 - [Musica](/musica/musica.html)
 - [Computacion](/computacion/computacion.html)
 
+# Carpeta de drie (bloqueada)
 
 [Carpeta de Drive](https://drive.google.com/drive/folders/1jdXK-eoW7uV3UCixzyouz_aOmzbnSsCE?usp=sharing) 
 
+# Contacto
 
 Email: [Envia Correo](mailto:4552854@alu.murciaeduca.es)
 Twitter: @toomas_ps
