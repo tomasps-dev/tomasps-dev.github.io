@@ -20,11 +20,11 @@
 
 - peróxido de hidrógeno (H<sub>2</sub>O<sub>2</sub>)
 
-![Peroxido de hidrogeno](/fyq/tema3/ejercicios/peroxido.png)
+![Peroxido de hidrogeno](/fyq/tema3/ejercicios/perioxido.png)
 
 - metano (CH<sub>4</sub>) 
 
-![Metano](/fyq/tema3/ejercicios/metano.pn)
+![Metano](/fyq/tema3/ejercicios/metano.png)
 
 - cianuro de hidrógeno (HCN) 
 
