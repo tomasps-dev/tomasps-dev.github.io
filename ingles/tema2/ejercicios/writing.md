@@ -13,3 +13,8 @@ I was working on the code and social media, while the rest of the team were desi
 
 - **Paragraph 2:**
 The last week of July, we were joining all parts and the project was almost ready for the testers. In the first week of August the project was ready for the first release. Minutes before the beta to be publish for all the people, our electricity cut off and all the *project lost*.
+So, for days we tried to restore the project but it was unsuccessful. So after that we started from the beginning, and guess what... the project was better than before, because all ours problems were solved.
+
+- **Paragraph 3:**
+So our conclusion is ti have always a copy of your work because you can lose it. 
+We felt happy and now our project is back online abd pepare for nee things. 
