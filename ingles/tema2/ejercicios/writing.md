@@ -12,9 +12,10 @@ The next week we were putting into practice the chosen ideas and setting up the 
 I was working on the code and social media, while the rest of the team were designing the buildings of the game. Although this task was very boring and difficult, we wanted to finish it as soon as posible.
 
 - **Paragraph 2:**
-The last week of July, we were joining all parts and the project was almost ready for the testers. In the first week of August the project was ready for the first release. Minutes before the beta to be publish for all the people, our electricity cut off and all the *project lost*.
-So, for days we tried to restore the project but it was unsuccessful. So after that we started from the beginning, and guess what... the project was better than before, because all ours problems were solved.
+The last week of July, we were joining all parts and the project was almost ready for the testers. In the first week of August the project was ready for the first release. Minutes before the beta was published for all the people, our electricity cut off and the *project data was lost*.
+So, for days we tried to restore the project but it was unsuccessful. After that we started from the beginning, and guess what... the project was better than before, because all our problems were solved.
 
 - **Paragraph 3:**
-So our conclusion is ti have always a copy of your work because you can lose it. 
-We felt happy and now our project is back online abd pepare for nee things. 
+In the end our conclusion is it have always a copy of your work because you can lose it. 
+In the end our story taught us a lesson which is, always make a copy of your projects in case you lose them.
+After all, we felt excited to see that our project is now back online and ready for new updates. 
