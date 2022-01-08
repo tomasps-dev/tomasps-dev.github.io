@@ -1,3 +1,3 @@
 # Tema 3
 
-- [Ejercicios](/byg/tema3/ejercicios/ejercicios.html)
+- [Ejercicios](/byg/Tema3/ejercicios/ejercicios.html)
