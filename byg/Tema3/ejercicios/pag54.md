@@ -49,6 +49,8 @@ La anemia es la disminucion de la concentracion de hemoglobina en sangre, aunque
 La hemoglobina es una proteina rica en hierro que permite a los globulos rojos transportar el oxigeno desde los pulmones al resto del cuerpo y sus niveles son bajos el organismo no recibe de la sangre el suficiente oxigeno y entonces la persona se encuentra agotada y cansada ademas de otros sintomas como la palidez, mareos, etc. 
 La anemia puede ser temporal o prolongada en el tiempo
 
-1. Se llama anemia ferroquenica esta causada por la deficiencia nutricional de hierro. Se produce cuando el cuerpo dispone de menos hierro del que necesita. En los alimentos encontramos dos tipos de hierro: el hierro hemo (alimentos de origen animal) y el hierro no hemo (de origen vegetal y animal). El primero se absorve mejor que el segundo. 
-2.  
-3.  
+1. Se llama anemia ferroquenica esta causada por la deficiencia nutricional de hierro. Se produce cuando el cuerpo dispone de menos hierro del que necesita. En los alimentos encontramos dos tipos de hierro: el hierro hemo (alimentos de origen animal) y el hierro no hemo (de origen vegetal y animal). El primero se absorbe mejor que el segundo. 
+2.  Hemorragia. Cuando se pierde sangre el cuerpo absorbe agua rapidamente de los tejidos hacia el torrente sanguineo para mantener los vasos llenos y en consecuencia la sangre se diluye y el hematocrito[^1]
+3.  Se llama anemia hemolitica
+
+[^1]: Porcentaje de globulos rojos en el volumen total de sangre
