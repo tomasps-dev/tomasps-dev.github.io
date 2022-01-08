@@ -42,13 +42,13 @@ Por cada leucocito hay entre 18 y 37 plaquetas
 
 > 3. Busca información y explica que es la anemia, después argumenta porque puede darse en estos casos.
 1. > Baja ingesta de hierro mediante la dieta. 
-2. > Pérdida excesiva de sangre por una herida. [
+2. > Pérdida excesiva de sangre por una herida. 
 3. > Enfermedad autoinmunitaria que causa la destrucción de los glóbulos rojos. 
 
 La anemia es la disminucion de la concentracion de hemoglobina en sangre, aunque la de globulos rojos sean normal o incluso elevada.
 La hemoglobina es una proteina rica en hierro que permite a los globulos rojos transportar el oxigeno desde los pulmones al resto del cuerpo y sus niveles son bajos el organismo no recibe de la sangre el suficiente oxigeno y entonces la persona se encuentra agotada y cansada ademas de otros sintomas como la palidez, mareos, etc. 
 La anemia puede ser temporal o prolongada en el tiempo
 
-1. Se llama anemia ferroquenica
+1. Se llama anemia ferroquenica esta causada por la deficiencia nutricional de hierro
 2.  
 3.  
