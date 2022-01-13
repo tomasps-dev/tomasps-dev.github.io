@@ -28,6 +28,10 @@
 - [Musica](/musica/musica.html)
 - [Computacion](/computacion/computacion.html)
 
+# Apuntes (Se necesita inicio de sesion)
+
+[Notion](https://tomasps.notion.site/)
+
 # Carpeta de drie (bloqueada)
 
 [Carpeta de Drive](https://drive.google.com/drive/folders/1jdXK-eoW7uV3UCixzyouz_aOmzbnSsCE?usp=sharing) 
