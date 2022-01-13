@@ -43,7 +43,6 @@ Twitter: @toomas_ps
 
  <br />
 > Tu estancia en esta pagina esta siendo traqueada  
- <br />
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2601333000574204"
