@@ -42,5 +42,8 @@ Email: [Envia Correo](mailto:4552854@alu.murciaeduca.es)
 Twitter: @toomas_ps
 
 
+> Tu estancia en esta pagina esta siendo traqueada
+
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2601333000574204"
      crossorigin="anonymous"></script>
