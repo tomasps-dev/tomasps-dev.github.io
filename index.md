@@ -42,7 +42,6 @@ Email: [4552854@alu.murciaeduca.es](mailto:4552854@alu.murciaeduca.es) <br />
 Twitter: @toomas_ps
 
  <br />
- <br />
 > Tu estancia en esta pagina esta siendo traqueada  
  <br />
 
