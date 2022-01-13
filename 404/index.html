@@ -1,30 +1,40 @@
----
-permalink: /404.html
----
-
-<!DOCTYPE html>
-<html lang="en" >
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>CodePen - 404 Kittens</title>
-  <link rel="stylesheet" href="./style.css">
+<title>Simple 404 Error Page Design</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:700" rel="stylesheet">
+<style>
+h1{
+font-size:80px;
+font-weight:800;
+text-align:center;
+font-family: 'Roboto', sans-serif;
+}
+h2
+{
+font-size:25px;
+text-align:center;
+font-family: 'Roboto', sans-serif;
+margin-top:-40px;
+}
+p{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+font-size:12px;
+}
 
+.container
+{
+width:300px;
+margin: 0 auto;
+margin-top:15%;
+}
+</style>
 </head>
 <body>
-<!-- partial:index.partial.html -->
 <div class="container">
-  <form class="four-oh-four-form">
-    <input type="text" class="404-input">
-  </form>
-
-  <div class="terminal">
-      <p class="prompt">The page you requested cannot be found right now. Try typing 'kittens'.</p>
-      <p class="prompt output new-output"></p>
-  </div>
+<h1>404</h1>
+<h2>Page Not Found</h2>
+<p>The Page you are looking for doesn't exist or an other error occured. Go to <a href="/">Home Page.</a></p>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.min.js'></script><script  src="./script.js"></script>
-
 </body>
 </html>
