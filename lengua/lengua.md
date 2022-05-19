@@ -9,3 +9,5 @@
 </script>
   
 # Lengua Castellana
+
+- [Lingüistica e Informatica](https://aula21-my.sharepoint.com/:p:/g/personal/4552854_alu365_murciaeduca_es/EZEDc9bdZHFEvooLO-aVVs0BB9JOrPGQSnGgrXe53S6Tew?e=PJZ8XH)
