@@ -1,13 +1,13 @@
 # Example Site settings
 
-#google_analytics: UA-NNNNNNNN-N
+google_analytics: G-YQR3MX1GD4
 
-#header_pages:
+header_pages:
   - index.md
   - /3eso/3eso.md
   - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'sigueme en twitter <a href="https://twitter.com/toomas_ps">twitter</a>'
 
 #style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
