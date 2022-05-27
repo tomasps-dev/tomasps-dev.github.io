@@ -9,7 +9,7 @@ header_pages:
 
 footer: 'sigueme en <a href="https://twitter.com/toomas_ps">twitter</a>'
 
-#style: light # dark (default) or light
+style: # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
