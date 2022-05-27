@@ -1,4 +1,7 @@
-# ./Gemfile
+# frozen_string_literal: true
 
-# This is an example, declare the theme gem you want to use here
-gem "jekyll-theme-hacker"
+source "https://rubygems.org"
+gemspec
+
+
+gem 'jekyll-seo-tag'

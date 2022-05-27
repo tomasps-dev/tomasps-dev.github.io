@@ -1,3 +1,9 @@
+---
+title: /
+layout: home
+permalink: /
+---
+
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQR3MX1GD4"></script>
 
