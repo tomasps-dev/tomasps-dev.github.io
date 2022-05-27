@@ -10,4 +10,4 @@
 
 # Educacion Fisica
 
-- [Charla nutricion](/ef/Miércoles2272b9b31992ac46daa173faa0f324a696.html)
+- [Charla nutricion](/3eso/ef/Miércoles2272b9b31992ac46daa173faa0f324a696.html)

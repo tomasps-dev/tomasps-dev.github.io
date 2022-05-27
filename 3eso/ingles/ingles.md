@@ -11,6 +11,6 @@
 # Ingles
 
 
-- [Tema 0/1](/ingles/tema01/tema01.html)
-- [USA Presentation](/ingles/usa/usa.html)
-- [Tema 2](/ingles/tema2/tema2.html)
+- [Tema 0/1](/3eso/ingles/tema01/tema01.html)
+- [USA Presentation](/3eso/ingles/usa/usa.html)
+- [Tema 2](/3eso/ingles/tema2/tema2.html)

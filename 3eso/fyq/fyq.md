@@ -10,5 +10,5 @@
 
 # Fisica y Quimica
 
-- [Tema 2](/fyq/tema2/tema2.html)
-- [Tema 3](/fyq/tema3/tema3.html)
+- [Tema 2](/3eso/fyq/tema2/tema2.html)
+- [Tema 3](/3eso/fyq/tema3/tema3.html)

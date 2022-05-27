@@ -1,4 +1,4 @@
 # Tema 2
 
-- [IMC](/byg/Tema2/imc/index.html)
-- [Ejercicios](/byg/Tema2/ejercicios/ejercicios.html)
+- [IMC](/3eso/byg/Tema2/imc/index.html)
+- [Ejercicios](/3eso/byg/Tema2/ejercicios/ejercicios.html)

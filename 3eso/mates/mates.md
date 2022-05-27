@@ -11,7 +11,7 @@
 # Matematicas 
 
 
-- [Problema Pascual](/mates/pascual.html)
+- [Problema Pascual](/3eso/mates/pascual.html)
 
 
 

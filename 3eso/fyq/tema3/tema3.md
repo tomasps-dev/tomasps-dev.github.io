@@ -1,3 +1,3 @@
 # Tema 3
 
-- [Ejercicios](/fyq/tema3/ejercicios/ejercicios.html)
+- [Ejercicios](/3eso/fyq/tema3/ejercicios/ejercicios.html)

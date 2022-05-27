@@ -1,3 +1,3 @@
 # Computacion
 
-- [Proyecto Primer Trimestre](/computacion/proyecto1.html)
+- [Proyecto Primer Trimestre](/3eso/computacion/proyecto1.html)

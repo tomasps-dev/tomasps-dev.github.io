@@ -1,3 +1,3 @@
 # Tema 3
 
-- [Ejercicios](/geo/tema3/ejercicios/ejercicios.html)
+- [Ejercicios](/3eso/geo/tema3/ejercicios/ejercicios.html)

@@ -1,6 +1,6 @@
 # USA Presentation
 
-- [Presentation](/ingles/usa/presentation/usa.html)
-- [Index](/ingles/usa/biography/biography.html)
-- [Photos used](/ingles/usa/biography/photos/photos.html)
-- [Transcript](/ingles/usa/transcript/transcript.html)
+- [Presentation](/3eso/ingles/usa/presentation/usa.html)
+- [Index](/3eso/ingles/usa/biography/biography.html)
+- [Photos used](/3eso/ingles/usa/biography/photos/photos.html)
+- [Transcript](/3eso/ingles/usa/transcript/transcript.html)

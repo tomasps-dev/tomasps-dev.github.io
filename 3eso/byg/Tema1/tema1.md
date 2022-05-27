@@ -10,6 +10,6 @@
 
 # Tema 1
 
-- [Ejercicios](/byg/Tema1/ejercicios/ejercicios.html)
-- [Apuntes Clase](/byg/Tema1/apuntes/apuntes.html)
+- [Ejercicios](/3eso/byg/Tema1/ejercicios/ejercicios.html)
+- [Apuntes Clase](/3eso/byg/Tema1/apuntes/apuntes.html)
 
