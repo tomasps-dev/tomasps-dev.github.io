@@ -54,4 +54,9 @@ data = [
 print(tabulate(data, headers=nombres, tablefmt="fancy_grid"))
 ```
 
+
+
+
+
+
 - [Contenido Raw/Enlace directo de descarga](/3eso/mates/CalculadoraDeArea.py)
