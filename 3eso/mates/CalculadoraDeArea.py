@@ -1,17 +1,3 @@
-<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-
-# Calculadorad de Area y Volumen
-
-> Dado el radio de un cilindro este programa calculara la altura, area y volumen.
-
-- Output
-<img src="/3eso/mates/demo.gif" width="800"/>
-
-
-- Codigo
-
-```python
 # Copyright (c) 2022, by Tresillo
 # All rights reserved.
 # Licensed under the MIT license
@@ -51,4 +37,3 @@ data = [
 ]
 
 print(tabulate(data, headers=nombres, tablefmt="fancy_grid"))
-```
