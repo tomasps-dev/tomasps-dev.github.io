@@ -6,7 +6,7 @@
 > Dado el radio de un cilindro este programa calculara la altura, area y volumen.
 
 - Output
-<img src="/3eso/mates/demo.gif" width="800"/>
+<img src="/3eso/mates/demo.gif" width="600"/>
 
 
 - Codigo
