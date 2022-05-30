@@ -6,7 +6,7 @@
 > Dado el radio de un cilindro este programa calculara la altura, area y volumen.
 
 - Output
-![demo](demo.gif)
+![demo](demo.gif = 100x20)
 
 
 
