@@ -15,25 +15,28 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
+while True:    
+    nombres = ["", "Resultado", "Unidades"]
+    print(bcolors.HEADER, "Calculadora de Altura y Areas (ctrl + c para salir)", bcolors.ENDC);
     
-nombres = ["", "Resultado", "Unidades"]
-print(bcolors.HEADER, "Calculadora de Altura y Areas", bcolors.ENDC);
+    
+    print(bcolors.OKCYAN, "Introduce el valor del radio: ", bcolors.ENDC);
+    radio = float(input(bcolors.OKBLUE))
+    print(bcolors.ENDC)
+    
+    altura = 1000/(math.pi*pow(radio, 2))
+    
+    area = (2*math.pi*pow(radio, 2))+(2*math.pi*radio*altura)
+    
+    volumen = math.pi*pow(radio, 2) * altura
+    
+    data = [
+        ["Radio", '%.2f'%radio, "cm"],
+        ["Altura", '%.2f'%altura, "cm"],
+        ["Area", '%.2f'%area, "cm^2"],
+        ["Volumen", '%.2f'%volumen, "cm^3"]
+    ]
+    
+    print(tabulate(data, headers=nombres, tablefmt="fancy_grid"))
 
-print(bcolors.OKCYAN, "Introduce el valor del radio: ", bcolors.ENDC);
-radio = float(input(bcolors.OKBLUE))
-print(bcolors.ENDC)
-
-altura = 1000/(math.pi*pow(radio, 2))
-
-area = (2*math.pi*pow(radio, 2))+(2*math.pi*radio*altura)
-
-volumen = math.pi*pow(radio, 2) * altura
-
-data = [
-    ["Radio", '%.2f'%radio, "cm"],
-    ["Altura", '%.2f'%altura, "cm"],
-    ["Area", '%.2f'%area, "cm^2"],
-    ["Volumen", '%.2f'%volumen, "cm^3"]
-]
-
-print(tabulate(data, headers=nombres, tablefmt="fancy_grid"))
+    print(bcolors.ENDC)
